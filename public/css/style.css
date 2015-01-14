@@ -1,0 +1,57 @@
+body, html {
+	background: #ffffff;
+	padding: 0;
+	margin: 0;
+	font-family: Arial;
+}
+.datarow {
+	width: 1000px;
+	margin: 0 auto;
+	font-size: 12px;
+	text-align: center;
+	border: 1px solid #343434;
+}
+.champion_avatar {
+	width: 100px;
+}
+.attr_head {
+	background: #f0f0f0;
+}
+.attr_head th {
+	font-size: 12px;
+}
+.mystats {
+	text-align: center;
+	font-size: 14px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.average {
+	text-align: center;
+	font-size: 12px;
+	color: #999999;
+	margin-bottom: 10px;
+}
+.skill_levels {
+	text-align: center;
+}
+.last_game_head {
+	font-size: 12px;
+	font-weight: bold;
+	background: #f0f0f0;
+}
+.stat_up {
+	font-size: 12px;
+	color: green;
+	padding: 5px;
+	text-align: center;
+}
+.stat_down {
+	text-align: center;
+	padding: 5px;
+	font-size: 12px;
+	color: red;
+}
+.last_game_head td {
+	padding: 5px;
+}
